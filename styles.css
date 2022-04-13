@@ -12,6 +12,7 @@ h1, h2, h3, h4, p {
     color: #f9faf8;
     font-size: 24px;
     float: left;
+    margin-top: 5px;
 }
 #topBarLinks {
     color: #e5e7eb;
@@ -19,14 +20,17 @@ h1, h2, h3, h4, p {
 }
 .headerLinkThree {
     float: right;
+    margin-top: 5px;
     margin-left: 15px;
 }
 .headerLinkTwo {
     float: right;
+    margin-top: 5px;
     margin-left: 15px;
 }
 .headerLinkOne {
     float: right;
+    margin-top: 5px;
     margin-left: 15px;
 }
 #heroBar {
