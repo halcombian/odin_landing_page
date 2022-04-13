@@ -47,6 +47,9 @@ h1, h2, h3, h4, p {
     font-size: 18px;
     float: left;
 }
+#heroImg {
+    float: right;
+}
 #bodyHeader {
     color: #1f2937;
     font-size: 36px;
