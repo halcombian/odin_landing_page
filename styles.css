@@ -30,14 +30,17 @@ html, body {
 #heroText {
     color: #e5e7eb;
     font-size: 18px;
+    margin: 0px;
 }
 #bodyHeader {
     color: #1f2937;
     font-size: 36px;
     font-weight: bolder;
+    margin: 0px;
 }
 .bodyText {
     color: #1f2937;
+    margin: 0px;
 }
 #quote {
     background-color: #e5e7eb;
@@ -47,11 +50,13 @@ html, body {
     color: #1f2937;
     font-size: 36px;
     font-weight: lighter italic;
+    margin: 0px;
 }
 #quoteCredit {
     color: #1f2937;
     font-size: 24px;
     font-weight: bold;
+    margin: 0px;
 }
 #footer {
     background-color: #1f2937;
