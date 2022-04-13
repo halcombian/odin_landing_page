@@ -1,65 +1,52 @@
 html, body {
     margin: 0;
-    margin-top: 0px;
     font-family: Arial, Helvetica, sans-serif;
 }
 #topBar {
     background-color: #1f2937;
-    margin: 0px;
 }
 #logo {
     color: #f9faf8;
     font-size: 24px;
-    margin: 0px;
 }
 #topBarLinks {
     color: #e5e7eb;
     font-size: 18px;
-    margin: 0px;
 }
 #heroBar {
     background-color: #1f2937;
-    margin: 0px;
 }
 #heroHeader {
     color: #f9faf8;
     font-size: 48px;
     font-weight: bolder;
-    margin: 0px;
 }
 #heroText {
     color: #e5e7eb;
     font-size: 18px;
-    margin: 0px;
 }
 #bodyHeader {
     color: #1f2937;
     font-size: 36px;
     font-weight: bolder;
-    margin: 0px;
 }
 .bodyText {
     color: #1f2937;
-    margin: 0px;
 }
 #quote {
     background-color: #e5e7eb;
-    margin: 0px;
 }
 #quoteText {
     color: #1f2937;
     font-size: 36px;
     font-weight: lighter italic;
-    margin: 0px;
 }
 #quoteCredit {
     color: #1f2937;
     font-size: 24px;
     font-weight: bold;
-    margin: 0px;
 }
 #footer {
     background-color: #1f2937;
-    margin: 0px;
     color: #f9faf8;
 }
