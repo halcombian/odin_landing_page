@@ -16,7 +16,6 @@ html, body {
 }
 #heroBar {
     background-color: #1f2937;
-    height: 100%;
 }
 #heroHeader {
     color: #f9faf8;
@@ -37,7 +36,6 @@ html, body {
 }
 #quote {
     background-color: #e5e7eb;
-    height: 100%;
 }
 #quoteText {
     color: #1f2937;
@@ -51,6 +49,5 @@ html, body {
 }
 #footer {
     background-color: #1f2937;
-    height: 100%;
     color: #f9faf8;
 }
