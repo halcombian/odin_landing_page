@@ -16,6 +16,15 @@ h1, h2, h3, h4, p {
     color: #e5e7eb;
     font-size: 18px;
 }
+.headerLinkOne {
+    float: right;
+}
+.headerLinkTwo {
+    float: right;
+}
+.headerLinkThree {
+    float: right;
+}
 #heroBar {
     background-color: #1f2937;
 }
