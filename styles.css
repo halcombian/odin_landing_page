@@ -48,7 +48,9 @@ h1, h2, h3, h4, p {
     float: left;
 }
 #heroImg {
-    height: auto;
+
+}
+#heroImage {
     width: 50px;
 }
 #bodyHeader {
