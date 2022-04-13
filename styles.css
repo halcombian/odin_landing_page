@@ -72,3 +72,6 @@ h1, h2, h3, h4, p {
     background-color: #1f2937;
     color: #f9faf8;
 }
+.signUp {
+    float: left;
+}
