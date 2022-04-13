@@ -5,6 +5,7 @@ html, body {
 }
 #topBar {
     background-color: #1f2937;
+    height: 100%;
 }
 #logo {
     color: #f9faf8;
