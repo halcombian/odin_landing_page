@@ -15,6 +15,7 @@ html, body {
 #topBarLinks {
     color: #e5e7eb;
     font-size: 18px;
+    margin: 0px;
 }
 #heroBar {
     background-color: #1f2937;
