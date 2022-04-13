@@ -11,6 +11,7 @@ h1, h2, h3, h4, p {
 #logo {
     color: #f9faf8;
     font-size: 24px;
+    float: left;
 }
 #topBarLinks {
     color: #e5e7eb;
@@ -18,15 +19,15 @@ h1, h2, h3, h4, p {
 }
 .headerLinkThree {
     float: right;
-    margin-left: 10px;
+    margin-left: 15px;
 }
 .headerLinkTwo {
     float: right;
-    margin-left: 10px;
+    margin-left: 15px;
 }
 .headerLinkOne {
     float: right;
-    margin-left: 10px;
+    margin-left: 15px;
 }
 #heroBar {
     background-color: #1f2937;
@@ -35,6 +36,7 @@ h1, h2, h3, h4, p {
     color: #f9faf8;
     font-size: 48px;
     font-weight: bolder;
+    float: left;
 }
 #heroText {
     color: #e5e7eb;
