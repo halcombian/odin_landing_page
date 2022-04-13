@@ -1,0 +1,51 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+#topBar {
+    background-color: #1f2937;
+}
+#logo {
+    color: #f9faf8;
+    font-size: 24px;
+}
+#topBarLinks {
+    color: #e5e7eb;
+    font-size: 18px;
+}
+#heroBar {
+    background-color: #1f2937;
+}
+#heroHeader {
+    color: #f9faf8;
+    font-size: 48px;
+    font-weight: bolder;
+}
+#heroText {
+    color: #e5e7eb;
+    font-size: 18px;
+}
+#bodyHeader {
+    color: #1f2937;
+    font-size: 36px;
+    font-weight: bolder;
+}
+.bodyText {
+    color: #1f2937;
+}
+#quote {
+    background-color: #e5e7eb;
+}
+#quoteText {
+    color: #1f2937;
+    font-size: 36px;
+    font-weight: lighter italic;
+}
+#quoteCredit {
+    color: #1f2937;
+    font-size: 24px;
+    font-weight: bold;
+}
+#footer {
+    background-color: #1f2937;
+    color: #f9faf8;
+}
