@@ -1,3 +1,10 @@
+body {
+    margin: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1, h2, h3, h4, p {
+    margin: 0px;
+}
 #topBar {
     background-color: #1f2937;
 }
@@ -45,8 +52,4 @@
 #footer {
     background-color: #1f2937;
     color: #f9faf8;
-}
-body {
-    margin: 0px;
-    font-family: Arial, Helvetica, sans-serif;
 }
