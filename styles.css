@@ -45,6 +45,7 @@ h1, h2, h3, h4, p {
 #heroText {
     color: #e5e7eb;
     font-size: 18px;
+    float: left;
 }
 #bodyHeader {
     color: #1f2937;
