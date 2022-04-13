@@ -2,7 +2,9 @@ html, body {
     margin: 0;
     font-family: Arial, Helvetica, sans-serif;
 }
-
+div {
+    margin: 0px;
+}
 #topBar {
     background-color: #1f2937;
     margin: 0px;
