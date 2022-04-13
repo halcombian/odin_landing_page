@@ -7,6 +7,7 @@ p {
 }
 #topBar {
     background-color: #1f2937;
+    margin: 0px;
 }
 #logo {
     color: #f9faf8;
@@ -18,6 +19,7 @@ p {
 }
 #heroBar {
     background-color: #1f2937;
+    margin: 0px;
 }
 #heroHeader {
     color: #f9faf8;
@@ -38,6 +40,7 @@ p {
 }
 #quote {
     background-color: #e5e7eb;
+    margin: 0px;
 }
 #quoteText {
     color: #1f2937;
@@ -51,5 +54,6 @@ p {
 }
 #footer {
     background-color: #1f2937;
+    margin: 0px;
     color: #f9faf8;
 }
