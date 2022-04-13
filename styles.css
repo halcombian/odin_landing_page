@@ -3,9 +3,6 @@ html, body {
     margin-top: 0px;
     font-family: Arial, Helvetica, sans-serif;
 }
-div {
-    margin: 0px;
-}
 #topBar {
     background-color: #1f2937;
     margin: 0px;
@@ -13,6 +10,7 @@ div {
 #logo {
     color: #f9faf8;
     font-size: 24px;
+    margin: 0px;
 }
 #topBarLinks {
     color: #e5e7eb;
@@ -26,6 +24,7 @@ div {
     color: #f9faf8;
     font-size: 48px;
     font-weight: bolder;
+    margin: 0px;
 }
 #heroText {
     color: #e5e7eb;
